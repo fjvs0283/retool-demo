@@ -9,6 +9,11 @@
     "col": 3,
     "height": 1
   },
+  "button3": {
+    "row": 14.2,
+    "col": 3,
+    "height": 1
+  },
   "table1": {
     "row": 1,
     "height": 8,
