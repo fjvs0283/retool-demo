@@ -25,7 +25,7 @@
       <Column
         id="ec868"
         alignment="right"
-        editableOptions={{ map: { showStepper: true } }}
+        editableOptions={{ showStepper: true }}
         format="decimal"
         formatOptions={{ showSeparators: true, notation: "standard" }}
         groupAggregationMode="sum"
@@ -88,7 +88,7 @@
         id="8eacc"
         alignment="left"
         format="tag"
-        formatOptions={{ map: { automaticColors: true } }}
+        formatOptions={{ automaticColors: true }}
         groupAggregationMode="none"
         key="strCategory"
         label="Str category"
@@ -114,7 +114,7 @@
         id="867c6"
         alignment="left"
         format="tag"
-        formatOptions={{ map: { automaticColors: true } }}
+        formatOptions={{ automaticColors: true }}
         groupAggregationMode="none"
         key="strAlcoholic"
         label="Str alcoholic"
@@ -128,7 +128,7 @@
         id="2d583"
         alignment="left"
         format="tag"
-        formatOptions={{ map: { automaticColors: true } }}
+        formatOptions={{ automaticColors: true }}
         groupAggregationMode="none"
         key="strGlass"
         label="Str glass"
@@ -227,7 +227,7 @@
         id="bd348"
         alignment="left"
         format="link"
-        formatOptions={{ map: { showUnderline: "hover" } }}
+        formatOptions={{ showUnderline: "hover" }}
         groupAggregationMode="none"
         key="strDrinkThumb"
         label="Str drink thumb"
@@ -249,7 +249,7 @@
         id="81636"
         alignment="left"
         format="tag"
-        formatOptions={{ map: { automaticColors: true } }}
+        formatOptions={{ automaticColors: true }}
         groupAggregationMode="none"
         key="strIngredient1"
         label="Str ingredient 1"
@@ -431,7 +431,7 @@
         id="deb3a"
         alignment="left"
         format="tag"
-        formatOptions={{ map: { automaticColors: true } }}
+        formatOptions={{ automaticColors: true }}
         groupAggregationMode="none"
         key="strMeasure1"
         label="Str measure 1"
@@ -445,7 +445,7 @@
         id="47eca"
         alignment="left"
         format="tag"
-        formatOptions={{ map: { automaticColors: true } }}
+        formatOptions={{ automaticColors: true }}
         groupAggregationMode="none"
         key="strMeasure2"
         label="Str measure 2"
@@ -494,7 +494,7 @@
       <Column
         id="304e0"
         alignment="right"
-        editableOptions={{ map: { showStepper: true } }}
+        editableOptions={{ showStepper: true }}
         format="decimal"
         formatOptions={{ showSeparators: true, notation: "standard" }}
         groupAggregationMode="sum"
@@ -641,7 +641,7 @@
         id="dedb2"
         alignment="left"
         format="tag"
-        formatOptions={{ map: { automaticColors: true } }}
+        formatOptions={{ automaticColors: true }}
         groupAggregationMode="none"
         key="strCreativeCommonsConfirmed"
         label="Str creative commons confirmed"
@@ -684,5 +684,6 @@
     </Table>
     <Button id="button1" styleVariant="solid" text="Button" />
     <Button id="button2" styleVariant="solid" text="Button" />
+    <Button id="button3" styleVariant="solid" text="Button" />
   </Frame>
 </App>
