@@ -4,6 +4,11 @@
     "col": 7,
     "height": 1
   },
+  "button2": {
+    "row": 10.4,
+    "col": 4,
+    "height": 1
+  },
   "table1": {
     "row": 1.2,
     "col": 1,
