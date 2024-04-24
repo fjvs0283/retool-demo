@@ -54,7 +54,7 @@
         id="420d9"
         alignment="left"
         format="tag"
-        formatOptions={{ automaticColors: true }}
+        formatOptions={{ map: { automaticColors: true } }}
         groupAggregationMode="none"
         key="role"
         label="Role"
@@ -90,7 +90,7 @@
         alignment="left"
         cellTooltipMode="overflow"
         format="tags"
-        formatOptions={{ automaticColors: true }}
+        formatOptions={{ map: { automaticColors: true } }}
         groupAggregationMode="none"
         key="teams"
         label="Teams"
@@ -159,7 +159,6 @@
         />
       </ToolbarButton>
     </Table>
-    <Button id="button2" styleVariant="solid" text="Button" />
     <Button id="button1" styleVariant="solid" text="Button" />
   </Frame>
 </App>
