@@ -7,6 +7,11 @@
   "table1": {
     "row": 0.8,
     "col": 4,
+    "height": 1
+  },
+  "table1": {
+    "row": 1.8,
+    "col": 1,
     "height": 8,
     "width": 8
   }
